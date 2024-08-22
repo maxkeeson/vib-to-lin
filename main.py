@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from scipy.signal import argrelextrema
 
 input_json_file = 'vib.json'
-output_json_file = 'lin.json'
+output_json_file = 'lin.funscript'
 
 def open_fs(filename):
     t = []
